@@ -91,15 +91,15 @@ I'm **Raas George**, a Telecommunications Engineering student with a passion for
 
 ## 💼 Professional Experience
 
-**[Staff Engineer]** @ [PT.Waprasta Global Teknologi] *(august 2024 - 2025)*
+**Staff Engineer** @ PT.Waprasta Global Teknologi *august 2024 - 2025*
 - handle soldering and building 
 - good at troubleshooting
 - can 3D and design PCB 
 
 ## 🎓 Education & Certifications
 
-- **[Bachelor Degree]** in [Telecomunication Engineering] - [Politeknik Elektronika Negeri Surabaya] *(2024)*
-- **[certified in desing schematic]** - [BNSP] *(2024)*
+- **Bachelor Degree** in Telecomunication Engineering - Politeknik Elektronika Negeri Surabaya *2024*
+- **certified in desing schematic** - BNSP *2024*
 
 ## 📈 Contribution Graph
 
