@@ -11,11 +11,11 @@
 I'm **Raas George**, a Telecommunications Engineering student with a passion for technology and software development. I love exploring new technologies, building innovative solutions, and constantly expanding my knowledge in both telecommunications and software engineering.
 
 - 🎓 Currently pursuing **Telecommunications Engineering** degree
-- 🔭 I'm currently working on **[Your Current Project]**
-- 🌱 I'm currently learning **[Technologies you're learning]**
+- 🔭 I'm currently working on **PT.HOME ELECTRICS**
+- 🌱 I'm currently learning **Machine Learning and AI**
 - 👯 I'm looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **Telecommunications, Networking, Software Development**
-- 📫 How to reach me: **[Your email]**
+- 💬 Ask me about **Telecommunications, Networking, Software Development, Desing PCB**
+- 📫 How to reach me: **satriaramadhan.official@gmail.com**
 - ⚡ Fun fact: **Bridging the gap between telecommunications and software development!**
 
 ## 🛠️ Tech Stack
@@ -75,63 +75,31 @@ I'm **Raas George**, a Telecommunications Engineering student with a passion for
 
 </div>
 
-## 🌟 Featured Projects
-
-### [Project Name 1](https://github.com/raasgeorge/project-1)
-**Description:** Brief description of what this project does and its key features.
-- **Tech Stack:** React, Node.js, MongoDB
-- **Highlights:** Key achievements or interesting features
-- 🌐 [Live Demo](https://demo-link.com) | 📖 [Documentation](https://docs-link.com)
-
-### [Project Name 2](https://github.com/raasgeorge/project-2)
-**Description:** Brief description of what this project does and its key features.
-- **Tech Stack:** Python, Django, PostgreSQL
-- **Highlights:** Key achievements or interesting features
-- 🌐 [Live Demo](https://demo-link.com) | 📖 [Documentation](https://docs-link.com)
-
-### [Project Name 3](https://github.com/raasgeorge/project-3)
-**Description:** Brief description of what this project does and its key features.
-- **Tech Stack:** TypeScript, Next.js, TailwindCSS
-- **Highlights:** Key achievements or interesting features
-- 🌐 [Live Demo](https://demo-link.com) | 📖 [Documentation](https://docs-link.com)
-
-## 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [Blog Post Title 1](https://your-blog.com/post-1)
-- [Blog Post Title 2](https://your-blog.com/post-2)
-- [Blog Post Title 3](https://your-blog.com/post-3)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🤝 Connect with Me
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/satria-ramadhan-9a6191399/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-handle)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://your-portfolio.com)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:satriaramadhan.offical@gmail.com)
 [![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/your-username)
 
 </div>
 
 ## 💼 Professional Experience
 
-**[Job Title]** @ [Company Name] *(Month Year - Present)*
-- Achievement or responsibility 1
-- Achievement or responsibility 2
-- Achievement or responsibility 3
-
-**[Job Title]** @ [Company Name] *(Month Year - Month Year)*
-- Achievement or responsibility 1
-- Achievement or responsibility 2
-- Achievement or responsibility 3
+**[Staff Engineer]** @ [PT.Waprasta Global Teknologi] *(august 2024 - 2025)*
+- handle soldering and building 
+- good at troubleshooting
+- can 3D and design PCB 
 
 ## 🎓 Education & Certifications
 
-- **[Degree]** in [Field] - [University Name] *(Year)*
-- **[Certification Name]** - [Issuing Organization] *(Year)*
-- **[Certification Name]** - [Issuing Organization] *(Year)*
+- **[Bachelor Degree]** in [Telecomunication Engineering] - [Politeknik Elektronika Negeri Surabaya] *(2024)*
+- **[certified in desing schematic]** - [BNSP] *(2024)*
 
 ## 📈 Contribution Graph
 
